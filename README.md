@@ -1,6 +1,6 @@
 # DeepEvo
-An interpretable deep learning framework specifically-designed for cross-species comparison.  
-It provides a framework for predicting evolutionary *cis*-regulatory variants and for validating the “additional effect” model as well as the concerted drive strategy.
+An interpretable deep learning framework specifically-designed for cross-species comparison, providing an effective approach for predicting evolutionary *cis*-regulatory variants.
+<img width="1979" height="767" alt="image" src="https://github.com/user-attachments/assets/7da1e26b-0eb7-4c5b-889c-8942eea6b11b" />
 
 # Demos
 | Name            | Description                                                                 |
