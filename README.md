@@ -5,7 +5,7 @@ An interpretable deep learning framework specifically-designed for cross-species
 # System Requirements & Installation
 DeepEvo is implemented in Python and utilizes PyTorch for deep learning. We highly recommend using [Conda](https://docs.conda.io/en/latest/miniconda.html) to manage the environment and ensure reproducibility.
 
-**Tested Operating Systems:** CentOS Linux 7 (Core)
+**Tested Operating Systems:** CentOS Linux 7 (Core)\
 **Typical Install Time:** 30-40 minutes (depending on network speed)
 
 ### 1. Clone the repository
