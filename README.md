@@ -33,5 +33,5 @@ conda env create -f environment.yml
 conda activate deepevo_env
 ```
 
-*(Note: The default `environment.yml` is configured for GPUs with CUDA 11.8. If you are running on a CPU-only machine or a different CUDA version, please refer to the PyTorch official website to modify the `pytorch-cuda` version accordingly.)*
+*(Note: The default `environment.yml[https://github.com/bbd0123/DeepEvo/blob/main/environment.yml]` is configured for GPUs with CUDA 11.8. If you are running on a CPU-only machine or a different CUDA version, please refer to the PyTorch official website to modify the `pytorch-cuda` version accordingly.)*
 
