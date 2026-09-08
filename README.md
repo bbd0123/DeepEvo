@@ -16,6 +16,14 @@ cd DeepEvo
 ```
 
 ### 2. Create and activate the Conda environment
+
+This will install Python, PyTorch (v2.4.0), and all required dependencies.
+
+```bash
+conda env create -f environment.yml
+conda activate deepevo_env
+```
+
 # Demos
 | Name            | Description                                                                 |
 |-----------------|-----------------------------------------------------------------------------|
@@ -25,13 +33,6 @@ cd DeepEvo
 | [training_script](https://github.com/bbd0123/DeepEvo/tree/main/training_script) | Scripts for training DeepEvo models from scratch.                           |
 
 
-
-This will install Python, PyTorch (v2.4.0), and all required dependencies.
-
-```bash
-conda env create -f environment.yml
-conda activate deepevo_env
-```
 
 *(Note: The default [environment.yml](https://github.com/bbd0123/DeepEvo/blob/main/environment.yml) is configured for GPUs with CUDA 11.8. If you are running on a CPU-only machine or a different CUDA version, please refer to the PyTorch official website to modify the `pytorch-cuda` version accordingly.)*
 
